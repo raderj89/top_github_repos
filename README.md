@@ -14,6 +14,12 @@ A simple React app that displays the top 100 most starred GitHub repositories, a
 - Enzyme: Testing utility for React components
 - Sinon: Test spies, stubs and mocks for JavaScript
 
+### Directory structure
+- `public`: Code in `src` gets compiled to here and loaded in browsers
+- `src`: Application code lives here | - `app`: React components and their tests | - `config`: Client-side routes |- `utils`: Functions making API calls and their tests.
+- `test`: Test setup. Test files live in the same directories as their corresponding files, for now.
+- root directory: webpack config, which handles app compilation and bundling
+
 ### Prerequisites
 node.js (Node 6 with npm 3 is required).
 
