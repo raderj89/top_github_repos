@@ -9,3 +9,20 @@ A simple React app that displays the top 100 most starred GitHub repositories, a
 - ReactJS: A simple library for building highly componentized, dynamic UIs
 - Axios: Promise-based HTTP client
 - Twitter Bootstrap: Mobile-first HTML and CSS framework
+
+### Prerequisites
+node.js (Node 6 with npm 3 is required).
+
+### Installing
+```
+git clone git@github.com:raderj89/top_github_repos.git
+cd top_github_repos
+npm install
+```
+
+### Start development
+1. `npm run dev`
+2. Point your browser to localhost:5000
+
+### Running tests
+`npm test`
