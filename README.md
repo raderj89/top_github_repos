@@ -1,6 +1,6 @@
 # Top GitHub repos
 
-A simple React app that displays the top 100 most starred GitHub repositories, as well as their top contributor.
+A simple React app that displays the top 100 most starred GitHub repositories, as well as their top contributor. [View it on Heroku](https://top-github-repos.herokuapp.com).
 
 ### Stack/Libraries
 - Babel: for sweet ES6 syntax
