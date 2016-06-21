@@ -33,6 +33,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "concurrently": "^2.1.0",
     "enzyme": "^2.3.0",
     "jsdom": "^9.2.1",
     "mocha": "^2.5.3",
